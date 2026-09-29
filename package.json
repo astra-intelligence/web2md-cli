@@ -1,0 +1,25 @@
+{
+  "name": "web2md-cli",
+  "version": "1.0.0",
+  "description": "Convert any URL to clean Markdown — perfect for LLM context ingestion, AI training data, and content extraction",
+  "bin": {
+    "web2md-cli": "./cli.js"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "markdown",
+    "url-to-markdown",
+    "llm",
+    "web-scraping",
+    "content-extraction",
+    "web2md"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grantshatz/web2md-cli.git"
+  },
+  "homepage": "https://github.com/grantshatz/web2md-cli#readme"
+}
