@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grantshatz/web2md-cli.git"
+    "url": "git+https://github.com/astra-intelligence/web2md-cli.git"
   },
-  "homepage": "https://github.com/grantshatz/web2md-cli#readme"
+  "homepage": "https://github.com/astra-intelligence/web2md-cli#readme"
 }
